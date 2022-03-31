@@ -64,7 +64,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven-compiler-plugin.version>3.7.0</maven-compiler-plugin.version>
         <camel.version>2.19.1</camel.version>
-        <spring-boot-starter.version>1.5.4.RELEASE</spring-boot-starter.version>
+        <spring-boot-starter.version>2.5.12</spring-boot-starter.version>
     </properties>
 
 </project>
