@@ -57,7 +57,7 @@
     </build>
 
     <properties>
-        <thrift.version>0.10.0</thrift.version>
+        <thrift.version>0.14.0</thrift.version>
         <maven-thrift.version>0.1.11</maven-thrift.version>
         <org.slf4j.slf4j-simple.version>1.7.12</org.slf4j.slf4j-simple.version>
     </properties>
